@@ -17,3 +17,10 @@ A simple React-based implementation of the classic Hangman game. Players try to 
 - HangmanWord.tsx: Displays the word to be guessed. It shows correctly guessed letters and reveals the full word if the player loses.
 
 - Keyboard.tsx: Handles the display and interaction of the on-screen keyboard. Allows players to guess letters by clicking buttons corresponding to each letter.
+
+# Tech Stack
+- React: A JavaScript library for building user interfaces.
+- TypeScript: A superset of JavaScript that adds static typing to the language.
+- CSS: Used for styling components.
+- Node.js: JavaScript runtime environment used for building and running the application.
+- npm: Package manager for Node.js, used to install dependencies.
